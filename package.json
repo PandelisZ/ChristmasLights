@@ -1,19 +1,6 @@
 {
-  "name": "christmaslights",
-  "version": "1.0.0",
-  "description": "Web controlled christmas lights for hack the holidays",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/PandelisZ/ChristmasLights.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PandelisZ/ChristmasLights/issues"
-  },
-  "homepage": "https://github.com/PandelisZ/ChristmasLights#readme"
+  "name": "test",
+  "dependencies": {
+    "twit": "*"
+  }
 }
